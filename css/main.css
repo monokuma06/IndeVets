@@ -85,9 +85,10 @@ font-family: 'Roboto', sans-serif; */
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 400;
     font-size: 20px;
+    color: white;
 }
 
-.photo1{
+.header_photo{
     position: absolute;
     top: 265px;
     right: 186px;
@@ -118,11 +119,6 @@ font-family: 'Roboto', sans-serif; */
     font-weight:700 ;
     font-size:55px ;
     font-family: 'Roboto', sans-serif;
-}
-
-.cards{
-    /* display: flex;
-    justify-content: space-between; */
 }
 
 .card1{
@@ -163,18 +159,41 @@ font-family: 'Roboto', sans-serif; */
 }
 
 
-.photo2{
-    /* padding-top: 45px;
-    padding-left: 30px; */
+.card-photo{
     position: absolute;
     top:45px;
     left:30px;
     right: 46px;
 }
 
-.photo3{
-    position: absolute;
-    top:45px;
-    left:30px;
-    right: 46px; 
+
+
+.section-title_1{
+    max-width: 1054px;
+    max-height: 317px;
+    margin-top: 494px;
+}
+
+.title-1{
+    padding-top: 48px;
+    margin-left: 130px;
+}
+
+.title-wrapper{
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color:#8BC441;
+    padding-top: 10px ;
+    
+}
+
+
+
+.title-wrapper__text{
+    width: 525px;
+}
+
+.section-img__1{
+    
 }
